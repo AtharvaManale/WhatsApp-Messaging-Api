@@ -1,0 +1,56 @@
+/*Login*/
+
+.container{
+    border-radius: 10px;
+    background-color: rgba(255,255,255,0.9);
+    height: 250x;
+    width: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.login_form{
+    display: flex;
+    flex-flow: column nowrap;
+    padding: 20px;
+    width: 300px;
+    height: auto;
+    justify-content: center;
+    align-items: left;
+}
+
+lable{
+    margin-top: 10px;
+    width: 50%;
+    height: 20px;
+    border-radius: 5px;
+    border: none;
+}
+
+.i, .I{
+    background-color: white;
+    margin-top: 5px;
+    width: 200px;
+    height: 20px;
+    border-radius: 5px;
+    border: none;
+}
+.login{
+    margin-top: 10px;
+    margin-left: 75px;
+    width: 90px;
+    height: 25px;
+    border-radius: 5px;
+    background-color: #02624a;
+    border: none;
+    color: white;
+}
+.bg{
+    border: none;
+}
+button{
+    cursor: pointer;
+}
+
+@import "tailwindcss";
