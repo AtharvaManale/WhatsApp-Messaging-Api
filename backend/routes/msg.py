@@ -63,5 +63,3 @@ def send_message():
         results.append({contact.Mobile_No: r.json()})
     
     return jsonify({"status" : "sent", "details" : results})
-
-    

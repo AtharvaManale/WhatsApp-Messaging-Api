@@ -1,7 +1,7 @@
 
 # WhatsApp Message Api
 
-Created an microservice for WhatsApp Bussines Account clients to handle contacts of their customers or clients to send messages or advertisments in one click.
+Created a service for WhatsApp Bussines Account clients to handle contacts of their customers or clients to send messages or advertisments in one click.
 
 ## WhatsApp Integration
 This system integrates with the **official WhatsApp Business Cloud API** provided by Meta.
