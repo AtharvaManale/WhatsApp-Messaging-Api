@@ -9,6 +9,7 @@ venv/
 .env.local
 .env.*
 .msg
+.vscode
 
 # --- Node / React ---
 node_modules/
