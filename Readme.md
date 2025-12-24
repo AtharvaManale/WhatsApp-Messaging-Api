@@ -14,7 +14,7 @@ It allows businesses to send messages directly to their customers' WhatsApp acco
 
 **Server:** Javascript, Python(Flask)
 
-**Databse:** Mysql, ORM(sqlAlchemy)
+**Database:** Mysql, ORM(sqlAlchemy)
 
 ## API Reference
 
